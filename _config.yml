@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tao Wu"
-description              : "Diffusion Models"
-repository               : "taowww99.github.io"
+title                    : "Yachuan Li"
+description              : "Edge Detection"
+repository               : "yachuan_li.github.io"
 google_scholar_stats_use_cdn : False
 
 # google analytics
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tao Wu (吴涛)"
+  name             : "Yachuan Li (李亚传)"
   avatar           : "images/icon.png"
-  bio              : "Computer Vision Center, Universitat Autònoma Barcelona"
-  location         : "Barcelona, Spain"
+  bio              : "China University of Petroleum"
+  location         : "QingDao China"
   employer         : # "Nankai University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=9Px3WuIAAAAJ&hl=zh-CN"
