@@ -17,7 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm now working as a Ph.D. in China University of Petroleum.
+I'm  a Ph.D. in China University of Petroleum. 
+I am currently conducting a one-year academic exchange at the Autonomous University of Barcelona.
+
+Or, for a slightly more formal tone:
  <a href='https://scholar.google.es/citations?hl=en&user=Am4a9M4AAAAJ'></a>
 
 ## Research Interests：
