@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm now working as a Ph.D. in LAMP group under the supervision of Joost van de Weijer at Computer Vision Center (CVC), Universitat Autònoma de Barcelona (UAB). Before that I received my master degree in image processing from University of Chinese Academy of Sciences and Institute of Optics and Electronics, Chinese Academy of Sciences in 2024 and the bachelor degree from Chongqing University of Posts and Telecommunications in 2021. I have worked on a wide variety of projects including Diffusion Models, Continual Learning and Vision Transformers. Now I am mainly working on multiple projects on diffusion models.
- <a href='https://scholar.google.es/citations?user=6CsB8k0AAAAJ&hl=en'></a>
+I'm now working as a Ph.D. in China University of Petroleum.
+ <a href='https://scholar.google.es/citations?hl=en&user=Am4a9M4AAAAJ'></a>
 
 ## Research Interests：
 
-My research covers a range of `Diffusion Model`, `Vision Transformer` and `Landmark Detection`. 
+My research covers a range of `Edge detection`,`LLM`. 
 
 See my recent publications for more details.
 
